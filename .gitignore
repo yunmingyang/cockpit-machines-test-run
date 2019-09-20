@@ -127,9 +127,11 @@ dmypy.json
 *.yml
 *.yaml
 
-
 # idea project folder
 .idea/
 
-# venv
-cockpit-machines-test-run
+# vscode project folder
+.vscode/
+
+# .lock file
+Pipfile.lock

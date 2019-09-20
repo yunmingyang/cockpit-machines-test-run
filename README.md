@@ -1,7 +1,5 @@
-# Some package should be installed
-1. avocado-framework
-2. avocado-framework-plugin-result-html
-3. PyYAML
+# Setup venv
+pipenv shell
 
 # How to run
 ## tips: 
