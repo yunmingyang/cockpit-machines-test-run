@@ -1,3 +1,4 @@
+# It's a tool for running selenium test with cockpit-machines
 # Setup venv
 pipenv shell
 
